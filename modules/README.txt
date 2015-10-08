@@ -33,7 +33,7 @@ In multisite configurations, modules found in this directory are available to
 all sites. You may also put modules in the sites/all/modules directory, and the
 versions in sites/all/modules will take precedence over versions of the same
 module that are here. Alternatively, the sites/your_site_name/modules directory
-pattern may be used to restrict modules to a specific site instance.
+pattern may be used to restrict modules to a specific site instance.hello
 
 MORE INFORMATION
 ----------------
