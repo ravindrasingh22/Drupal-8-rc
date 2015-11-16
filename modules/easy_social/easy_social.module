@@ -58,7 +58,7 @@ function easy_social_easy_social_widget() {
   // Google+.
   $widgets['googleplus'] = array(
     'name' => t('Google+'),
-    'js' => 'easy_social/googleplus',
+    //'js' => 'easy_social/googleplus',
     'css'=>'easy_social/css/googleplus'
   );
 
@@ -100,7 +100,7 @@ function easy_social_theme($existing, $type, $theme, $path) {
     ),
     'easy_social_googleplus' => array(
       'variables' => array(),
-      'file' => 'easy_social.theme.inc',
+     // 'file' => 'easy_social.theme.inc',
     ),
     'easy_social_linkedin' => array(
       'variables' => array(),

@@ -6,10 +6,6 @@ facebook:
   version: VERSION
   js:
    js/facebook.js: { }
-googleplus:
-  version: VERSION
-  js:
-    //apis.google.com/js/plusone.js: { type: external }
 pinterest:
   version: VERSION
   js:
